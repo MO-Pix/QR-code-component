@@ -18,7 +18,7 @@ My first challenge on the site, pretty simple out of the box.
 
 ### Screenshot
 
-![](./completed.png)
+![](./qr-code-component-main/completed.png)
 
 ### Links
 
